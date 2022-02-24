@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NANAIII349&repo=STL-demo&theme=radical)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NANAIII349&repo=CenterPoint &theme=radical)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NANAIII349&repo=CenterPoint&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NANAIII349&layout=compact&theme=highcontrast)
 
