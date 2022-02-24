@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NANAIII349&show_icons=true&theme=dracula)
 -->
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NANAIII349&repo=github-readme-stats&theme=dracula)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NANAIII349&repo=STL-demo SunnyWeather&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NANAIII349&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NANAIII349&layout=compact&theme=highcontrast)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NANAIII349&show_icons=true&theme=dracula)
